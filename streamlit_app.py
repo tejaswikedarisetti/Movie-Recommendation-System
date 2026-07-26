@@ -1,8 +1,13 @@
 import streamlit as st
 import pandas as pd
 import requests
+import os
 from sklearn.metrics.pairwise import cosine_similarity
-API_KEY = "871a151abc836deb7a62d60b1c203292"
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_KEY = os.getenv("TMDB_API_KEY")
 
 # ---------------------------------------------------
 # Page Configuration
