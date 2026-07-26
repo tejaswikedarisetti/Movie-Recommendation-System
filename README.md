@@ -205,7 +205,5 @@ pip install -r requirements.txt
 
 **Sai Tejaswi**
 
-B.Tech – Data Science
-
 GitHub: https://github.com/tejaswikedarisetti
 
