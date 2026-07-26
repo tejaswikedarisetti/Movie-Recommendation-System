@@ -153,23 +153,7 @@ Dataset contains
 (Add screenshots inside the **images** folder.)
 
 ---
-## 📸 Application Screenshots
 
-### 🏠 Home Page
-
-![Home Page](images/home.png)
-
----
-
-### 🎬 Movie Recommendations
-
-![Movie Recommendations](images/recommendations.png)
-
----
-
-### 🖼️ Movie Posters
-
-![Movie Posters](images/posters.png)
 
 ## 📦 Requirements
 
